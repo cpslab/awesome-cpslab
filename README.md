@@ -14,7 +14,7 @@
 
 # Blogs
 
-* [岩井研残留日誌 \- あつおの日常~あつおと過ごした 365 日~](http://atsuocps.hatenablog.com/entry/zanryuDiary)
+* [岩井研残留日誌 \- あつおの日常\~あつおと過ごした 365 日\~](http://atsuocps.hatenablog.com/entry/zanryuDiary)
 * [ものづくりの一年〜2017年を振り返ってみて〜 \- メガネのブログ](http://kazu-megane.hatenablog.com/entry/2017/12/20/222342)
 
 # Links
