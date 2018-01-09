@@ -32,7 +32,7 @@
 
 # etc, 未分類
 
-https://twitter.com/sukonbu0909/status/928259290393067520
-https://twitter.com/_elzup_/status/645509676533092352
-https://www.youtube.com/watch?v=sO8LxteKcpM
+* https://twitter.com/sukonbu0909/status/928259290393067520
+* https://twitter.com/_elzup_/status/645509676533092352
+* https://www.youtube.com/watch?v=sO8LxteKcpM
 * [IWI LAB\!](https://cps-newgame.elzup.com/)
