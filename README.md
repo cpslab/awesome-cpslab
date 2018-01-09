@@ -11,4 +11,12 @@ Blogs
 
 Links
 ===
+
+
+Advent Calendar
+===
+
 * [CPS Lab Advent Calendar 2017 \- Qiita](https://qiita.com/advent-calendar/2017/cps)
+* [CPS Lab Advent Calendar 2016 - Adventar](https://adventar.org/calendars/1536)
+* [CPS Lab Advent Calendar 2015 - Adventar](https://adventar.org/calendars/862)
+* [CPS Lab(ラボライフ！) Advent Calendar 2014 - Adventar](https://adventar.org/calendars/485)
