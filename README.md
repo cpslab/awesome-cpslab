@@ -30,7 +30,7 @@
 
 
 
-# etc, 未分類
+# etc
 
 * https://twitter.com/sukonbu0909/status/928259290393067520
 * https://twitter.com/_elzup_/status/645509676533092352
