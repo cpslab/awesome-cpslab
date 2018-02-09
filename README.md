@@ -17,6 +17,8 @@
 * [岩井研残留日誌 \- あつおの日常\~あつおと過ごした 365 日\~](http://atsuocps.hatenablog.com/entry/zanryuDiary)
 * [ものづくりの一年〜2017年を振り返ってみて〜 \- メガネのブログ](http://kazu-megane.hatenablog.com/entry/2017/12/20/222342)
 
+* [上越国際スキー場 with Theta](https://movie.panoplaza.com/movies/7984e28e-3979-4450-ab88-bca28dd7b6b6)
+
 # Links
 * [maker faire tokyo 2017](https://sites.google.com/cps.im.dendai.ac.jp/cpslab-works/%E3%83%9B%E3%83%BC%E3%83%A0?authuser=1)
 
